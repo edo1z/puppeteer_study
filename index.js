@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer')
 
 const mapUrl = 'https://www.google.co.jp/maps/search/'
-const keywords = '渋谷+整体'
+const keywords = '新潟+焼肉'
 const containerEl = '[data-result-index]'
 const nameEl = 'h3 span'
 const countEl = 'span.section-result-num-ratings'
